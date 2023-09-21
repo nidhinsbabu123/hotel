@@ -1,0 +1,208 @@
+.t1 .logo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 27px;
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+
+.t1{
+    padding-left: 30px;
+    border-spacing: 40px;
+    margin-top: -30px;
+
+}
+
+.t1 .op1{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+img{
+    width: 100%;
+    height: 500px;
+}
+
+.slogo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    color: darkgoldenrod;
+}
+
+.t2{
+    padding-left: 30px;
+    border-spacing: 40px;
+}
+
+.t3{
+    padding-left: 30px;
+    border-spacing: 50px;
+}
+
+.t4{
+    border-spacing: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.para1{
+    padding-left: 30px;
+    font-size: large;
+    align-items: center;
+    font-weight: bold;
+}
+
+.para2{
+    font-size: 17px;
+    justify-content: right;
+}
+
+.para3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.div1{
+    margin-left: 30px;
+    width: 95%;
+    height: 1200px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hed{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+}
+
+.indiv1{
+    width: 50%;
+    height: 900px;
+    margin-top: -300px;
+    margin-left: -20px;
+}
+
+.indiv2{
+    width: 50%;
+    height: 900px;
+    margin-top: -300px;
+}
+
+.map{
+    color: chocolate;
+}
+
+.high{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img1{
+    width: 100%;
+    height: 300px;
+}
+
+.imgsdiv{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.images1{
+    width: 49%;
+    height: 250px;
+    
+}
+
+
+
+
+/* Taj image */
+
+.welcome-pic{
+    width: 100%;
+    height: 500px;
+    margin-top: -50px;
+
+    background-image: url(https://www.tajhotels.com/content/dam/luxury/hotels/old-taj-malabar-cochin/images/Quick_Peek/Facade_Hero_Image_Web_16x7-01.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg);
+
+    background-repeat: no-repeat;
+
+    background-size: 100%;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.booking{
+    background-color: darkgoldenrod;
+    color: white;
+    width: 350px;
+    height: 25px;
+    margin-left: 38%;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+body{
+    margin: 0;
+}
+
+.heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 34px;
+    font-weight: lighter;
+    color: #ffff;
+    padding-top: 200px;
+    text-shadow: 1px 5px 10px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.options{
+    width: 1200px;
+    height: 110px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-left: 110px;
+    margin-top: 98px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.texts{
+    color: white;
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.textb{
+    color: white;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.t5{
+    border-spacing: 25px;
+}
+
+.avail{
+    background-color: darkgoldenrod;
+    color: white;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.avail:hover{
+    background-color: rgb(240, 177, 16);
+}
